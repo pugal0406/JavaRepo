@@ -4,7 +4,8 @@ public class HelloJava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("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");
+		int a=10;
+System.out.println("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"+a);
 	}
 
 }
